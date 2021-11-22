@@ -1,0 +1,44 @@
+html {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.colore-rosso {
+    color: rgba(255,0,0, 1);
+}
+
+.sfondo-blu {
+    /* background-color: #0616ff; */
+    /* background-color: rgb(4, 0, 253); */
+    background-color: rgba(0,0,255, 1);
+}
+
+#contenitore-esterno {
+    width: 50%;
+}
+
+
+#contenitore-interno {
+    background-color: rgb(253, 135, 0);
+}
+
+.testo {
+    width: 5em;
+    border: solid 2px #000;
+    font-style: italic;
+    text-align: center;
+}
+
+
+#intestazione-pagina {
+    height: 100px;
+}
+
+
+.evidenziatore {
+    background-color: rgb(255, 238, 0);
+    width: 500px;
+    height: 500px;
+    font-weight: 300;
+    font-size: 0.5rem;
+}
